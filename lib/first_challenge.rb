@@ -1,12 +1,11 @@
-def first_challenge(epic_tragedy)
-   epic_tragedy = {
-    :montague => {  
-     :Patriach =>{name: "Lord Montague", age: "50"} 
-   }
+def epic_tragedy
+  epic_tragedy = {
+     :montague => {
+      :patriarch => {name: "Lord Montague", age: "53"}, 
+    },
     :capulet => {
-      :Patriach =>{name: "Lord Capulet", age: "50"} 
-
+        :patriarch => {name: "Lord Capulet", age: "50"},
+    }
    }
-   
 end
 
