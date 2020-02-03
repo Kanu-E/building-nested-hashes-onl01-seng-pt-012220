@@ -3,7 +3,7 @@ def first_challenge(epic_tragedy)
      : => {"Patriach"=> Name:"" , age: ""
    }
        :capulet => {
-         "Patriach"=> Name:"" , age: ""
+         :Patriach=> Name:"" , age: ""
    }
 
    }
